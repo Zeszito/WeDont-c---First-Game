@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/sonic.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/sword.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/MISC-SpriteSheet.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/P.A.PRINCIPAL-SpriteSheet.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/P.E.MELEE-SpriteSheet.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/P.E.RANGED-SpriteSheet.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/P.PRINCIPAL-SpriteSheet.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/VENDOR-SpriteSheet.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/bloco.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/fireball.jpg</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/icicle.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/BackGround.wav</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/FootStep.wav</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Parry.wav</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Swo.Swing.mp3</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/P-PrincipalSpriteSheet.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/tilesetComColunas.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/F-PrincipalSpriteSheet.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Dash/BotPersonageml.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Dash/LeftPersonagem.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Dash/RightPersonagem.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Dash/TopPersonagem.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Dash/tilesetComColunas.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Dash/LFootstep.wav</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/LFootstep.wav</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/SSwo.Swing.wav</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Underwater.wav</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Metal.wav</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Dash.wav</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/FontUs.spritefont</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/Menu.jpg</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/ice.png</File>
+    <File>C:/Users/Vasco/Dropbox/Best game ever/New/VERSAOFINALMAISRECENTE/PorfavorSeEstavel/Tecnicas/Content/fire.png</File>
+  </SourceFiles>
+</SourceFileCollection>

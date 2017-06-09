@@ -1,0 +1,170 @@
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\BasicHeart.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\inimigos\EvilMelee.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\inimigos\Ranged.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\inimigos\SkeletonMelee.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\PersonagemPrincipal.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Poca.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Speels\evilProjectile.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\sword.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Units\MISC-SpriteSheet.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Units\P.A.PRINCIPAL-SpriteSheet.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Units\P.E.MELEE-SpriteSheet.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Units\P.E.RANGED-SpriteSheet.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Units\P.PRINCIPAL-SpriteSheet.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Units\VENDOR-SpriteSheet.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\bloco.xnb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\MISC-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\P.A.PRINCIPAL-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\P.E.MELEE-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\P.E.RANGED-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\P.PRINCIPAL-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\sonic.xnb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\sword.xnb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\VENDOR-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Arial.xnb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Speels\fire.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\Speels\spritesheet-512px-by-197px-per-frame.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\temp\light.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\temp\testSprite.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\temp\tileset_1.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\temp\tileset_0.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Content\temp\torch_fire.png
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Tecnicas.exe
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\Tecnicas.pdb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.RawInput.dll
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.RawInput.xml
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\obj\x86\Release\Tecnicas.exe
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\obj\x86\Release\Tecnicas.pdb
+C:\Users\Vasco\Desktop\RecenteComMapa\Tecnicas\obj\x86\Release\Tecnicas.csprojResolveAssemblyReference.cache
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\obj\x86\Release\Tecnicas.exe
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\obj\x86\Release\Tecnicas.pdb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\BasicHeart.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\inimigos\EvilMelee.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\inimigos\Ranged.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\inimigos\SkeletonMelee.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\PersonagemPrincipal.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Poca.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Speels\evilProjectile.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\sword.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Units\MISC-SpriteSheet.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Units\P.A.PRINCIPAL-SpriteSheet.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Units\P.E.MELEE-SpriteSheet.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Units\P.E.RANGED-SpriteSheet.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Units\P.PRINCIPAL-SpriteSheet.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Units\VENDOR-SpriteSheet.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Arial.xnb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\bloco.xnb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\MISC-SpriteSheet.xnb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\P.A.PRINCIPAL-SpriteSheet.xnb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\P.E.MELEE-SpriteSheet.xnb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\P.E.RANGED-SpriteSheet.xnb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\P.PRINCIPAL-SpriteSheet.xnb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\sonic.xnb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\sword.xnb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\VENDOR-SpriteSheet.xnb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Speels\fire.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\Speels\spritesheet-512px-by-197px-per-frame.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\temp\light.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\temp\testSprite.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\temp\tileset_1.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\temp\tileset_0.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Content\temp\torch_fire.png
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Tecnicas.exe
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\Tecnicas.pdb
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.RawInput.dll
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.RawInput.xml
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Vasco\Dropbox\Best game ever\New\Vasco\Versao0.1\Tecnicas\obj\x86\Release\Tecnicas.csprojResolveAssemblyReference.cache
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\obj\x86\Release\Tecnicas.exe
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\obj\x86\Release\Tecnicas.pdb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\obj\x86\Release\Tecnicas.csprojResolveAssemblyReference.cache
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\BasicHeart.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\inimigos\EvilMelee.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\inimigos\Ranged.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\inimigos\SkeletonMelee.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\PersonagemPrincipal.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Poca.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Speels\evilProjectile.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\sword.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Units\MISC-SpriteSheet.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Units\P.A.PRINCIPAL-SpriteSheet.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Units\P.E.MELEE-SpriteSheet.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Units\P.E.RANGED-SpriteSheet.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Units\P.PRINCIPAL-SpriteSheet.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Units\VENDOR-SpriteSheet.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Arial.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\bloco.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\fireball.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\icicle.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\MISC-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\P.A.PRINCIPAL-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\P.E.MELEE-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\P.E.RANGED-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\P.PRINCIPAL-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\sonic.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\sword.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\VENDOR-SpriteSheet.xnb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Speels\fire.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\Speels\spritesheet-512px-by-197px-per-frame.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\temp\light.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\temp\testSprite.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\temp\tileset_1.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\temp\tileset_0.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Content\temp\torch_fire.png
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Tecnicas.exe
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\Tecnicas.pdb
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.RawInput.dll
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.RawInput.xml
+C:\Users\Vasco\Desktop\Versao0.2\Tecnicas\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
